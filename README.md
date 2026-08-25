@@ -159,14 +159,7 @@ Exploring how frequently customers leave reviews and whether review activity cha
 airbnb-data-analytics-project/
 │
 ├── README.md
-│
-├── powerbi/
-│   └── Airbnb_Market_Analysis.pbix
-│
 ├── images/
 │   ├── overview_dashboard.png
 │   ├── ratings_dashboard.png
 │   └── reviews_dashboard.png
-│
-└── docs/
-    └── business_questions_and_insights.md
